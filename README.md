@@ -1,6 +1,6 @@
 # Hi, there 👋🏽
 ## I'm Michael Ringhus Gertz
-I'm 38 and studying Software Engineering at the University of Southern Denmark (SDU)
+I'm 39 and studying Software Engineering at the University of Southern Denmark (SDU)
 
 I have been programming as a hobby for the last 20 years or something like that
 
