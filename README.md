@@ -19,7 +19,9 @@ I have mostly been working with PHP, but in the last year, i've been studying Fl
 Feel free to contact me, if you have any questions.
 </p>
 
+<p align="right">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MGertz&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
 <!-- <h1 align="center">👋🏽 Hey 👋🏽</h1>
 <h2 align="center">I'm Michael Ringhus Gertz!</h2>
