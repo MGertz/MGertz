@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionated Fullstack and DevOps Engineer</h3>
 
- - :book: I'm, studying Software Engineering at the University of Southern Denmark (SDU)
+ - :book: I'm, studying Software Engineering at the University of Southern Denmark also knows as SDU
 
  - :calendar: I'm 39, and still learning.
 
@@ -21,7 +21,7 @@
 
 <h2>:gear: Technologies I have been working with:</h2>
 
-<h2>:stats: Stats:</h2>
+<h2>:chart: Stats:</h2>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MGertz&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
