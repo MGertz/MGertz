@@ -1,6 +1,6 @@
-[![Masterhead](https://raw.githubusercontent.com/MGertz/MGertz/main/images/header.gif)](https://ringhus.dk)
+[![MasterHead](https://raw.githubusercontent.com/MGertz/MGertz/main/images/header.gif)](https://ringhus.dk)
 
-<h1 align="center">Hi :wave:, I'm Michael Ringhus Gertz</h1>
+<h1 align="center" text-decoration="none">:wave: Hi, I'm Michael Ringhus Gertz</h1>
 
 <h3 align="center">A passionated Fullstack and DevOps Engineer</h3>
 
@@ -18,6 +18,8 @@ I have mostly been working with PHP, but in the last year, i've been studying Fl
 <p align="left">
 Feel free to contact me, if you have any questions.
 </p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MGertz&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- <h1 align="center">👋🏽 Hey 👋🏽</h1>
 <h2 align="center">I'm Michael Ringhus Gertz!</h2>
