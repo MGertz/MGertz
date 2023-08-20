@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionated Fullstack and DevOps Engineer</h3>
 
- - :book: I'm, studying Software Engineering at the University of Southern Denmark also knows as SDU
+ - :book: I'm, studying Software Engineering at the University of Southern Denmark <br> also known as SDU
 
  - :calendar: I'm 39, and still learning.
 
