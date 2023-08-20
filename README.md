@@ -4,7 +4,7 @@
 
 <h2>:man: About me:</h2>
 
-<h3 align="center">A passionated Fullstack and DevOps Engineer</h3>
+<h3 align="center">A passionated FullStack and DevOps Engineer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/MGertz/MGertz/main/images/coder.gif">
 
